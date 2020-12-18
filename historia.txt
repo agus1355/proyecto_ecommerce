@@ -6,3 +6,5 @@ viviendo en todo el mundo
 Mañana nos enfocaremos en su vida laboral.
 
 Vamos a probar el git reset HEAD
+
+ahora tenemos el archivo en estado STAGED
